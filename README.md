@@ -1,186 +1,94 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrielconceicao01&color=DC0A2D&style=for-the-badge&label=VISITAS&labelColor=000000" alt="Contador de visitas"/>
-</div>
 
-<br>
-
-<h1 align="center">⚡ Olá!</h1>
-
-<br>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFCB05)](https://github.com/gabrielconceicao01)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFCB05)](#)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFCB05)](#)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFCB05)](#)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:52B788&height=200&section=header&text=Gabriel%20Concei%C3%A7%C3%A3o&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabrielconceicao01&color=52B788&style=flat-square&label=visitas"/>
+  <a href="https://linkedin.com/in/gabriel-conceicao-2a54223aa"><img src="https://img.shields.io/badge/LinkedIn-1B4332?style=flat-square&logo=linkedin&logoColor=D8F3DC"/></a>
+  <a href="mailto:gc627677@gmail.com"><img src="https://img.shields.io/badge/Email-1B4332?style=flat-square&logo=gmail&logoColor=D8F3DC"/></a>
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=DC0A2D&height=2&width=700" />
-</div>
+<p align="center">🌱 Barreiras - BA, Brasil</p>
 
-<br>
+---
 
-<h3 align="center">🔴 Sobre mim:</h3>
+### 🌿 Sobre mim
 
-<div align="center">
+Estudante de **Análise e Desenvolvimento de Sistemas** (conclusão prevista para 2028), cultivando conhecimento em desenvolvimento full stack e em busca da minha primeira oportunidade como **Desenvolvedor Full Stack**.
 
-**Sou o Gabriel** — um desenvolvedor fullstack apaixonado por código limpo e APIs sólidas como um Snorlax.
+Assim como um ecossistema, acredito em crescimento contínuo: cada projeto que desenvolvo — de dashboards a APIs — é mais uma raiz fincada na minha base técnica. Curioso, organizado e sempre em busca de resolver problemas reais com código.
 
-Atualmente focado em: **html, css, react** e **java, typescript, Python**
-
-Projetos pessoais: construção de APIs seguras e escaláveis
-
-Hobbies: jogos (sempre Pokémon), código, café e séries
-
-De: Brasil 🟢
-
-<br>
-
-🥊 Back-end com Node.js, Python e Express
-
-⚡ Banco de dados com MySQL
-
-🔧 Em breve: Deploy com Docker e CI/CD
-
-</div>
+```
+🌱 raiz       → JavaScript, Python, HTML, CSS, SQL, Git
+🌳 tronco     → Node.js, Express, Django, Flask
+🍃 copa       → PostgreSQL, Docker, APIs REST, POO
+```
 
 <br>
 
-<h3 align="center">⚪ Conjunto de tecnologias</h3>
+### 🌎 Tecnologias que cultivo
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFCB05)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFCB05)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFCB05)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=FFCB05)
-![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFCB05)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=FFCB05)
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFCB05)
-![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=FFCB05)
-![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=FFCB05)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFCB05)
-![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=FFCB05)
-![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=FFCB05)
-![Tailwind](https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFCB05)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=FFCB05)
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FFCB05)
-
-</div>
-
-<br>
-
-<h3 align="center">📚 Em Aprendizado:</h3>
-
-<div align="center">
-
-![CI/CD](https://img.shields.io/badge/CI%2FCD-DC0A2D?style=for-the-badge&logoColor=FFFFFF)
-![AWS](https://img.shields.io/badge/AWS-DC0A2D?style=for-the-badge&logoColor=FFFFFF)
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-DC0A2D?style=for-the-badge&logoColor=FFFFFF)
-![GraphQL](https://img.shields.io/badge/GRAPHQL-DC0A2D?style=for-the-badge&logoColor=FFFFFF)
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=DC0A2D&height=2&width=700" />
-</div>
-
-<br>
-
-<h3 align="center">🎯 Metas para 2026:</h3>
-
-<div align="center">
-
-| Meta | Status |
-|------|:------:|
-| ⚡ Aprofundar conhecimento em fullstack | 🟦 Em andamento |
-| 🐳 Estudar Docker e CI/CD | ⬜Em breve |
-| 🌐 Contribuir com projetos open source | ⬜Em breve |
-| ✍️ Escrever sobre back-end e segurança | ⬜ Planejado |
-| 🔴 Lançar meu portfólio próprio | ⬜Em breve |
-
-</div>
-
-<br>
-
-<h3 align="center">🏆 Projetos em Destaque:</h3>
-
-<div align="center">
-
-<table>
-<tr>
-<th>Projeto</th>
-<th>Dega</th>
-</tr>
-<tr>
-<td><code>backend de comércio eletrônico seguro</code></td>
-<td>Back-end de e-commerce com foco em segurança</td>
-</tr>
-<tr>
-<td><code>sanitize-api</code></td>
-<td>API de sanitização e validação de dados</td>
-</tr>
-<tr>
-<td><code>fila-notificacao-api</code></td>
-<td>API de fila de notificações</td>
-</tr>
-<tr>
-<td><code>estoque-lucro-api</code></td>
-<td>API de controle de estoque e lucro</td>
-</tr>
-<tr>
-<td><code>excel-automation-bot</code></td>
-<td>Bot de automação de planilhas Excel</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<h3 align="center">📊 Estatísticas:</h3>
-
-<div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielconceicao01&show_icons=true&theme=dark&bg_color=000000&title_color=FFCB05&icon_color=DC0A2D&text_color=FFFFFF&hide_border=true&ring_color=DC0A2D" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielconceicao01&layout=compact&theme=dark&bg_color=000000&title_color=FFCB05&text_color=FFFFFF&hide_border=true" />
-</div>
-
-<div align="center">
-<img width="89%" src="https://streak-stats.demolab.com?user=gabrielconceicao01&theme=dark&hide_border=true&background=000000&ring=DC0A2D&fire=FFCB05&currStreakLabel=FFCB05" />
-</div>
-
-<br>
-
-<h3 align="center">📈 Gráfico de Contribuição:</h3>
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielconceicao01&bg_color=000000&color=FFCB05&line=DC0A2D&point=FFFFFF&area=true&hide_border=true&theme=dracula" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=DC0A2D&height=2&width=700" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO%20COLLAB-000000?style=for-the-badge&color=FFCB05" />
-  <img src="https://img.shields.io/badge/ALWAYS%20LEARNING-000000?style=for-the-badge&color=FFCB05" />
-
-  <br><br>
-
-  ⚡ 🔴 🎮
-
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-1B4332?style=for-the-badge&logo=javascript&logoColor=D8F3DC"/>
+  <img src="https://img.shields.io/badge/Python-1B4332?style=for-the-badge&logo=python&logoColor=D8F3DC"/>
+  <img src="https://img.shields.io/badge/HTML5-1B4332?style=for-the-badge&logo=html5&logoColor=D8F3DC"/>
+  <img src="https://img.shields.io/badge/CSS3-1B4332?style=for-the-badge&logo=css3&logoColor=D8F3DC"/>
   <br>
+  <img src="https://img.shields.io/badge/SQL-1B4332?style=for-the-badge&logo=postgresql&logoColor=D8F3DC"/>
+  <img src="https://img.shields.io/badge/Node.js-1B4332?style=for-the-badge&logo=node.js&logoColor=D8F3DC"/>
+  <img src="https://img.shields.io/badge/Express-1B4332?style=for-the-badge&logo=express&logoColor=D8F3DC"/>
+  <img src="https://img.shields.io/badge/Django-1B4332?style=for-the-badge&logo=django&logoColor=D8F3DC"/>
+  <br>
+  <img src="https://img.shields.io/badge/Flask-1B4332?style=for-the-badge&logo=flask&logoColor=D8F3DC"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1B4332?style=for-the-badge&logo=postgresql&logoColor=D8F3DC"/>
+  <img src="https://img.shields.io/badge/Git-1B4332?style=for-the-badge&logo=git&logoColor=D8F3DC"/>
+  <img src="https://img.shields.io/badge/GitHub-1B4332?style=for-the-badge&logo=github&logoColor=D8F3DC"/>
+  <br>
+  <img src="https://img.shields.io/badge/Docker-1B4332?style=for-the-badge&logo=docker&logoColor=D8F3DC"/>
+  <img src="https://img.shields.io/badge/Postman-1B4332?style=for-the-badge&logo=postman&logoColor=D8F3DC"/>
+  <img src="https://img.shields.io/badge/VS%20Code-1B4332?style=for-the-badge&logo=visualstudiocode&logoColor=D8F3DC"/>
+</p>
 
-  <strong>Obrigado pela visita ao meu perfil, treinador!</strong>
+<br>
+
+### 🌾 Em germinação (aprendendo)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-52B788?style=flat-square&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-52B788?style=flat-square&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Engenharia%20de%20Prompts-52B788?style=flat-square&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/IA%20para%20Chatbots-52B788?style=flat-square&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-52B788?style=flat-square&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Power%20BI-52B788?style=flat-square&logoColor=FFFFFF"/>
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielconceicao01&show_icons=true&theme=transparent&title_color=52B788&icon_color=95D5B2&text_color=D8F3DC&hide_border=true&bg_color=00000000&ring_color=52B788"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielconceicao01&layout=compact&theme=transparent&title_color=52B788&text_color=D8F3DC&hide_border=true&bg_color=00000000"/>
+</p>
+
+<p align="center">
+  <img width="89%" src="https://streak-stats.demolab.com?user=gabrielconceicao01&theme=transparent&hide_border=true&background=00000000&ring=52B788&fire=95D5B2&currStreakLabel=D8F3DC"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielconceicao01&bg_color=00000000&color=95D5B2&line=52B788&point=D8F3DC&area=true&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
+<img src="assets/nature-banner.svg" width="100%"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:52B788,100:1B4332&height=100&section=footer" width="100%"/>
+
 </div>
