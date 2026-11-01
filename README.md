@@ -1,94 +1,158 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:52B788&height=200&section=header&text=Gabriel%20Concei%C3%A7%C3%A3o&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=240&section=header&text=GABRIEL%20CONCEI%C3%87%C3%83O&fontSize=43&fontColor=00FF88&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20ENGINEERING&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Junior+Developer;AI+Engineering+Enthusiast;Building+Intelligent+Solutions;Turning+Ideas+Into+Technology" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=gabrielconceicao01&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/gabriel-conceicao-2a54223aa">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+</a>
+<a href="https://github.com/gabrielconceicao01">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF88"/>
+</a>
+<a href="mailto:gc27677@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
+</a>
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrielconceicao01&color=52B788&style=flat-square&label=visitas"/>
-  <a href="https://linkedin.com/in/gabriel-conceicao-2a54223aa"><img src="https://img.shields.io/badge/LinkedIn-1B4332?style=flat-square&logo=linkedin&logoColor=D8F3DC"/></a>
-  <a href="mailto:gc627677@gmail.com"><img src="https://img.shields.io/badge/Email-1B4332?style=flat-square&logo=gmail&logoColor=D8F3DC"/></a>
-</p>
-
-<p align="center">🌱 Barreiras - BA, Brasil</p>
-
 ---
 
-### 🌿 Sobre mim
+## `01 / IDENTITY`
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (conclusão prevista para 2028), cultivando conhecimento em desenvolvimento full stack e em busca da minha primeira oportunidade como **Desenvolvedor Full Stack**.
+```python
+class GabrielConceicao:
 
-Assim como um ecossistema, acredito em crescimento contínuo: cada projeto que desenvolvo — de dashboards a APIs — é mais uma raiz fincada na minha base técnica. Curioso, organizado e sempre em busca de resolver problemas reais com código.
+    def __init__(self):
+        self.role = "Junior Developer"
 
+        self.focus = [
+            "Software Engineering",
+            "AI Engineering",
+            "Backend Development",
+            "Intelligent Applications"
+        ]
+
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "SQL"
+        ]
+
+        self.mindset = "Learn. Build. Improve. Repeat."
+
+    def mission(self):
+        return "Build technology that solves real problems."
 ```
-🌱 raiz       → JavaScript, Python, HTML, CSS, SQL, Git
-🌳 tronco     → Node.js, Express, Django, Flask
-🍃 copa       → PostgreSQL, Docker, APIs REST, POO
-```
 
-<br>
+Sou desenvolvedor em constante evolução, interessado em engenharia de software, inteligência artificial e criação de soluções tecnológicas.
 
-### 🌎 Tecnologias que cultivo
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-1B4332?style=for-the-badge&logo=javascript&logoColor=D8F3DC"/>
-  <img src="https://img.shields.io/badge/Python-1B4332?style=for-the-badge&logo=python&logoColor=D8F3DC"/>
-  <img src="https://img.shields.io/badge/HTML5-1B4332?style=for-the-badge&logo=html5&logoColor=D8F3DC"/>
-  <img src="https://img.shields.io/badge/CSS3-1B4332?style=for-the-badge&logo=css3&logoColor=D8F3DC"/>
-  <br>
-  <img src="https://img.shields.io/badge/SQL-1B4332?style=for-the-badge&logo=postgresql&logoColor=D8F3DC"/>
-  <img src="https://img.shields.io/badge/Node.js-1B4332?style=for-the-badge&logo=node.js&logoColor=D8F3DC"/>
-  <img src="https://img.shields.io/badge/Express-1B4332?style=for-the-badge&logo=express&logoColor=D8F3DC"/>
-  <img src="https://img.shields.io/badge/Django-1B4332?style=for-the-badge&logo=django&logoColor=D8F3DC"/>
-  <br>
-  <img src="https://img.shields.io/badge/Flask-1B4332?style=for-the-badge&logo=flask&logoColor=D8F3DC"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1B4332?style=for-the-badge&logo=postgresql&logoColor=D8F3DC"/>
-  <img src="https://img.shields.io/badge/Git-1B4332?style=for-the-badge&logo=git&logoColor=D8F3DC"/>
-  <img src="https://img.shields.io/badge/GitHub-1B4332?style=for-the-badge&logo=github&logoColor=D8F3DC"/>
-  <br>
-  <img src="https://img.shields.io/badge/Docker-1B4332?style=for-the-badge&logo=docker&logoColor=D8F3DC"/>
-  <img src="https://img.shields.io/badge/Postman-1B4332?style=for-the-badge&logo=postman&logoColor=D8F3DC"/>
-  <img src="https://img.shields.io/badge/VS%20Code-1B4332?style=for-the-badge&logo=visualstudiocode&logoColor=D8F3DC"/>
-</p>
-
-<br>
-
-### 🌾 Em germinação (aprendendo)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-52B788?style=flat-square&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-52B788?style=flat-square&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Engenharia%20de%20Prompts-52B788?style=flat-square&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/IA%20para%20Chatbots-52B788?style=flat-square&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-52B788?style=flat-square&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Power%20BI-52B788?style=flat-square&logoColor=FFFFFF"/>
-</p>
+Gosto de transformar ideias em aplicações funcionais, explorar novas tecnologias e entender como cada parte de um sistema funciona.
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielconceicao01&show_icons=true&theme=transparent&title_color=52B788&icon_color=95D5B2&text_color=D8F3DC&hide_border=true&bg_color=00000000&ring_color=52B788"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielconceicao01&layout=compact&theme=transparent&title_color=52B788&text_color=D8F3DC&hide_border=true&bg_color=00000000"/>
-</p>
-
-<p align="center">
-  <img width="89%" src="https://streak-stats.demolab.com?user=gabrielconceicao01&theme=transparent&hide_border=true&background=00000000&ring=52B788&fire=95D5B2&currStreakLabel=D8F3DC"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielconceicao01&bg_color=00000000&color=95D5B2&line=52B788&point=D8F3DC&area=true&hide_border=true"/>
-</p>
-
----
+## `02 / ARTIFICIAL INTELLIGENCE`
 
 <div align="center">
 
-<img src="assets/nature-banner.svg" width="100%"/>
+<img src="https://img.shields.io/badge/AI_ENGINEERING-000000?style=for-the-badge&logo=openai&logoColor=00FF88"/>
 
-<br><br>
+### THE INTELLIGENCE BEHIND THE CODE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:52B788,100:1B4332&height=100&section=footer" width="100%"/>
+<img src="https://cdn.simpleicons.org/openai/00FF88" height="55" alt="OpenAI"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/00FF88" height="55" alt="Google Gemini"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/anthropic/00FF88" height="55" alt="Anthropic Claude"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlecloud/00FF88" height="55" alt="Google Cloud Vertex AI"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=500&color=00FF88&center=true&vCenter=true&width=600&lines=OpenAI;Google+Gemini;Anthropic+Claude;Google+Vertex+AI" alt="AI platforms"/>
+
+</div>
+
+### AI ENGINEERING SKILLS
+
+- LLM Orchestration
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- AI Evaluation
+- AI Classification
+- Intelligent Automation
+- AI API Integration
+
+---
+
+## `03 / TECHNOLOGY MATRIX`
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+
+### BACKEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" />
+
+### DATABASE & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github&theme=dark" />
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" />
+
+</div>
+
+---
+
+## `04 / GITHUB ANALYTICS`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielconceicao01&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielconceicao01&layout=compact&hide_border=true&bg_color=000000&title_color=00FF88&text_color=FFFFFF"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=gabrielconceicao01&hide_border=true&background=000000&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielconceicao01&bg_color=000000&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## `05 / CONNECT WITH ME`
+
+<div align="center">
+
+**IDEAS BECOME CODE. CODE BECOMES SOLUTIONS.**
+
+<a href="https://linkedin.com/in/gabriel-conceicao-2a54223aa">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+</a>
+
+<a href="mailto:gc27677@gmail.com">
+<img src="https://img.shields.io/badge/SEND_AN_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
+</a>
+
+<br/><br/>
+
+<sub>BUILDING THE FUTURE, ONE LINE OF CODE AT A TIME.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
 </div>
